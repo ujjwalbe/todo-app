@@ -1,5 +1,5 @@
 class Task {
-  Task({this.details, this.done, this.title});
+  Task({required this.details, required this.done, required this.title});
   String title;
   String details;
   bool done =false;

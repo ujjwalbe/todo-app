@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:todo_app/Screens/Home.dart';
+import '../Screens/Home.dart';
 import 'package:hive/hive.dart';
 import 'package:path_provider/path_provider.dart';
 
